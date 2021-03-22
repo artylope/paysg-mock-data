@@ -1,5 +1,6 @@
-[
-    {
+{
+	"services":[
+		{
 			"id": "3982d3j328ds",
 			"name": "Excursion to Night Safari",
 			"agency":"Happy Primary School",
@@ -39,4 +40,5 @@
 					{ "id": "31dsvnruu434f", "amt": 323, "paid": false },
 					{ "id": "4t34535gvfe4d", "amt": 3013, "paid": false }
     },
-]
+	]
+}
