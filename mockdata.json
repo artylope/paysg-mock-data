@@ -4,7 +4,6 @@
 			"name": "Excursion to Night Safari",
 			"agency":"Happy Primary School",
 			"links":
-				[
 					{ "id": "erg53bt4btrtv", "amt": 1335, "paid": true },
 					{ "id": "3gvtq4h4t6efv", "amt": 145, "paid": false },
 					{ "id": "netf34gbt4erg", "amt": 334, "paid": true },
@@ -12,14 +11,12 @@
 					{ "id": "32fvre524t4fd", "amt": 859, "paid": false },
 					{ "id": "ewr3ewrwce33r", "amt": 120, "paid": false },
 					{ "id": "niuh832rne7jd", "amt": 34, "paid": false }
-				]
     },
     {
 			"id": "rtgf43gverwre",
 			"name": "SHN and Covid Swabs",
 			"agency":"MOH",
 			"links":
-					[
 							{ "id": "ercief838rtv", "amt": 56, "paid": true },
 							{ "id": "3gvtqwdqwsxsx", "amt": 32, "paid": false },
 							{ "id": "nxaxsaxe3rs2", "amt": 514, "paid": true },
@@ -27,14 +24,13 @@
 							{ "id": "etf43gfc4t6rc", "amt": 445, "paid": false },
 							{ "id": "f34gf45gvfdfe", "amt": 543, "paid": false },
 							{ "id": "45eg54gtg3f5v", "amt": 410, "paid": false }
-					]
 		},
 		{
 			"id": "dwqcewgv545hb",
 			"name": "Pay for Spoilt Weapons",
 			"agency":"MINDEF",
 			"links":
-				[
+
 					{ "id": "7e23ev6reeevs3", "amt": 354, "paid": true },
 					{ "id": "ewfewv64wvre3", "amt": 124, "paid": false },
 					{ "id": "nwecwef338dne", "amt": 345, "paid": true },
@@ -42,6 +38,5 @@
 					{ "id": "cerg5gdfvtmhg9", "amt": 838, "paid": false },
 					{ "id": "31dsvnruu434f", "amt": 323, "paid": false },
 					{ "id": "4t34535gvfe4d", "amt": 3013, "paid": false }
-				]
     },
 ]
